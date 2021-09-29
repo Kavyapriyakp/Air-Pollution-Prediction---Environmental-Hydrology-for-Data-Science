@@ -1,8 +1,7 @@
 <h1 align="center"><a name="section_name">Air Pollution Prediction</a></h1>
 
 <div align="justify">
-......
-</div>
+Air pollution is becoming more and more relevant in recent times especially in a power-driven country like India. Our project aims to predict the air pollution levels and the air quality index in major Indian cities. Several factors like suspended particulate matter and amount of nitrogen molecules present are used to predict the target variable - Air Quality Index. Our project also aims to understand the major factors that cause air pollution and ways to reduce it.</div>
 
 <br>
 

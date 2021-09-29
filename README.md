@@ -1,7 +1,7 @@
 <h1 align="center"><a name="section_name">Air Pollution Prediction</a></h1>
 
 <div align="justify">
-A GUI model of a software prototype with latest features developed to aid surveillance systems' monitoring.
+......
 </div>
 
 <br>
@@ -19,7 +19,7 @@ The following frameworks were utilized in the building of this code.
 </div>
 
 
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><img scr="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
 
 
 <div align="justify">

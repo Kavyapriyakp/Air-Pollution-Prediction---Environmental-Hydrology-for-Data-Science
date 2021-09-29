@@ -14,7 +14,8 @@ To predict the air quality index of major Indian cities and find ways to prevent
 ## Dataset
 <div align="justify">
 
-The dataset being used is the "Air Quality Data in India (2015 - 2020)" from Kaggle. </div>
+The dataset being used is the "Air Quality Data in India (2015 - 2020)" from Kaggle.
+Link to the dataset: www.kaggle.com/rohanrao/air-quality-data-in-india </div>
 
 ## Project Pipeline
 

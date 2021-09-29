@@ -41,14 +41,11 @@ The following tools were utilized in the building of this code.
 
 </div>
 
-## Installation of Dependencies / Development Setup
 
 <details>
-<summary>Windows OS</summary>
+<summary>Installation of Dependencies / Development Setup</summary>
 
 ---
-  
-### Pre-requisites
 
 
 <div align="justify">
@@ -142,24 +139,6 @@ pip3 install imutils
 
 
 </details>
-
-
-### Using the Data Models
-
-
-<div align="justify">
-
-Instance segmentation is implemented with `PixelLib` by using Mask R-CNN model trained on coco dataset. The latest version of PixelLib supports custom training of object segmentation models using pretrained coco model.  Deeplab and Mask R-CNN models are available in the above mentioned *Data Models* directory. 
-
-There are two types of Deeplabv3+ models available for performing semantic segmentation with PixelLib:
-
-1. Deeplabv3+ model with xception as network backbone trained on Ade20k dataset, a dataset with 150 classes of objects.
-2. Deeplabv3+ model with xception as network backbone trained on Pascalvoc dataset, a dataset with 20 classes of objects. 
-
-
-The said data models can also be downloaded from [here](https://drive.google.com/drive/folders/1jtSFQN3W6_tkF5QVUYto5slp_wvntIQO?usp=sharing).
-
-</div>
 
 
 ## Work under Progress

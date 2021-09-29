@@ -165,8 +165,8 @@ pip3 install imutils
 
 <td>
 
-Kavyapriya R
-RA1811029010034
+[Kavyapriya R](mailto:kr1490@srmist.edu.in)
+(RA1811029010034)
 
 <p align="center">
 </p>
@@ -180,8 +180,8 @@ RA1811029010034
 
 <td>
 
-Haasshim Mohamed
-RA1911003010606 
+[Haasshim Mohamed](mailto:hm5021@srmist.edu.in)
+(RA1911003010606) 
 
 <p align="center">
 </p>

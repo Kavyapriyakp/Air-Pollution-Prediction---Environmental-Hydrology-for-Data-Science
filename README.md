@@ -157,6 +157,58 @@ pip3 install imutils
 
 ## References
 
+## Contributors
+  
+<table>
+<tr align="center">
+<td>
+
+Aryan Kargwal
+
+<p align="center">
+<img src = "https://media-exp1.licdn.com/dms/image/C4E03AQF-jQx69fbYiw/profile-displayphoto-shrink_200_200/0/1610317317984?e=1621468800&v=beta&t=DA1te6zagqlPJarwqm3iDawBUn3n2QCXesSi75httIU"  height="120" alt="Aryan Kargwal">
+</p>
+<p align="center">
+<a href = "https://github.com/aryankargwal"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/aryan-kargwal-2550561a2/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<td>
+
+Kavyapriya R
+RA1811029010034
+
+<p align="center">
+<img src = "https://media-exp1.licdn.com/dms/image/C5103AQE5CkDeJQ8mmQ/profile-displayphoto-shrink_200_200/0/1573304359382?e=1621468800&v=beta&t=-uptIYAUuX4JoRcYazPr6R_HiKrZxeMjndRtMuc3YEQ"  height="120" alt="Kavyapriya R">
+</p>
+<p align="center">
+<a href = "https://github.com/Kavyapriyakp/kavyapriyakp/blob/main/README.md"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/kavyapriyar/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<td>
+
+Haasshim Mohamed
+RA1911003010606 
+
+<p align="center">
+<img src = "https://media-exp1.licdn.com/dms/image/C5603AQE_ev0fCPT0Uw/profile-displayphoto-shrink_200_200/0/1581639518725?e=1621468800&v=beta&t=ievx9n9yClEOkaW6nQw5CT8AhE6bWVgWh-We5nK9_vY"  height="120" alt="Rusali Saha">
+</p>
+<p align="center">
+<a href = "https://github.com/AlKun25"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/haasshim-m-105b25192/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<td>
 
 
 [Go to Top](#section_name)

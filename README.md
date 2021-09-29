@@ -11,9 +11,9 @@ Air pollution is becoming more and more relevant in recent times especially in a
 
 ## Dataset
 
-## Procss flow
+## Project Pipeline
 
-## Maths logic / model
+## Architecture or Model of Project
 
 ## Predicted output
 

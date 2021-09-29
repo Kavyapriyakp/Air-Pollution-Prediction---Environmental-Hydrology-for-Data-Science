@@ -5,6 +5,17 @@ Air pollution is becoming more and more relevant in recent times especially in a
 
 <br>
 
+## Problem Statement 
+
+## Objecctive
+
+## Dataset
+
+## Procss flow
+
+## Maths logic / model
+
+## Predicted output
 
 ## Build Status
 

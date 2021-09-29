@@ -7,7 +7,7 @@ Air pollution is becoming more and more relevant in recent times especially in a
 
 ## Problem Statement 
 
-## Objecctive
+## Objective
 
 ## Dataset
 

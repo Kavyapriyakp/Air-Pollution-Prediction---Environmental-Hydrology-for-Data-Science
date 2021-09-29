@@ -8,8 +8,6 @@ Air pollution is becoming more and more relevant in recent times especially in a
 ## Problem Statement 
 
 ## Objective
-<div align="justify">
-To predict the air quality index of major Indian cities and find ways to prevent them. Using multiple parameters to find out which contributes the most to air pollution and ways to reduce them. </div>
 
 ## Dataset
 
@@ -90,69 +88,8 @@ If you wish to install `pip` afresh, do:
 ```Python
 python3 -m pip install --upgrade pip
 ```
-
-or
-
-```Python
-sudo apt install python3-pip
-```
-
-Installing the necessary packages and depencies is a pre-requisite.  The setup itself varies according to the OS, though the code is really the same.  Yet, the GUI is builded with different libraries in runtime, hence it results in differrent appearances of the same GUI accroding to OSs.
-
-
-The `tkinter` package (“Tk interface”) is the standard Python interface to the Tk GUI toolkit. The `Tk interface` is located in a binary module named `_tkinter`. It is usually a shared library (or DLL), but might in some cases be statically linked with the Python interpreter.  The `cffi` module is used to invoke `callback` methods inside the program.
-
-```Python
-pip install tk
-python3 -m pip install cffi
-```
-
-`Pillow` is a Python Imaging Library (`PIL`), which adds support for opening, manipulating, and saving images. The current version identifies and reads a large number of formats.  It supports wide variety of images such as “jpeg”, “png”, “bmp”, “gif”, “ppm”, “tiff”.
-
-```Python
-python3 -m pip install --upgrade Pillow
-```
-
-`OpenCV` is a huge open-source library for computer vision, machine learning, and image processing. `OpenCV` supports a wide variety of programming languages like Python, C++, Java, etc. It can process images and videos to identify objects, faces, and so on. The library has more than 2500 optimized algorithms, which includes a comprehensive set of both classic and state-of-the-art computer vision and machine learning algorithms.
-
-
-```Python
-pip install opencv-python
-```
-
-The GUI code supports `tensorflow`'s version (2.0 - 2.4.1). Install `tensorflow` and the latest version of `Pixellib` with:
-
-```Python
-pip3 install tensorflow
-pip3 install pixellib --upgrade
-```
-
-If you have have a PC enabled GPU, install *tensorflow--gpu*'s version that is compatible with the cuda installed on your pc:
-
-
-```Python
-pip3 install tensorflow--gpu
-```
-
-`NumPy` is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.  By reading the image as a `NumPy` array ndarray, various image processing can be performed using NumPy functions.
-
-
-```Python
-pip3 install numpy
-```
-
-
-`Imutils` are a series of convenience functions to make basic image processing functions such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with `OpenCV` in Python.
-
-
-```Python
-pip3 install imutils
-```
-
-
 </details>
-
-
+  
 ## Work under Progress
 
 
@@ -167,8 +104,8 @@ pip3 install imutils
 
 <td>
 
-Kavyapriya R
-RA1811029010034
+[Kavyapriya R](mailto:kr1490@srmist.edu.in)
+(RA1811029010034)
 
 <p align="center">
 </p>
@@ -182,8 +119,8 @@ RA1811029010034
 
 <td>
 
-Haasshim Mohamed
-RA1911003010606 
+[Haasshim Mohamed](mailto:hm5021@srmist.edu.in)
+(RA1911003010606) 
 
 <p align="center">
 </p>

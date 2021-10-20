@@ -6,10 +6,18 @@ Air pollution is becoming more and more relevant in recent times especially in a
 <br>
 
 ## Problem Statement 
+<div align="justify">
+  Impact of COVID-19 on AQI in India
+FINDING OUT CAUSES OF POLLUTION
+Where to deploy resources in India to combat air pollution?
+</div>
 
 ## Objective
-<div align="justify">
-To predict the air quality index of major Indian cities and find ways to prevent them. Using multiple parameters to find out which contributes the most to air pollution and ways to reduce them. </div>
+<div align="justify"></div>
+
+-[X]Predict the air quality index of major Indian cities
+Ways to reduce air pollution
+Determine factors that contribute most to air pollution
 
 ## Dataset
 <div align="justify">

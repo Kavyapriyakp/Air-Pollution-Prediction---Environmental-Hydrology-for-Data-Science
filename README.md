@@ -5,6 +5,8 @@ Air pollution is becoming more and more relevant in recent times especially in a
 
 <br>
 
+![alt text](https://i.imgur.com/0gBVWNm.jpeg)
+
 ## Problem Statement 
 <div align="justify">
   Impact of COVID-19 on AQI in India

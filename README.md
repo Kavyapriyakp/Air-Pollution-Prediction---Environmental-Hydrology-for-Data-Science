@@ -15,7 +15,7 @@ Where to deploy resources in India to combat air pollution?
 ## Objective
 <div align="justify"></div>
 
--[X]Predict the air quality index of major Indian cities
+- [ ] Predict the air quality index of major Indian cities
 Ways to reduce air pollution
 Determine factors that contribute most to air pollution
 

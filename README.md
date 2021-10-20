@@ -10,7 +10,7 @@ Air pollution is becoming more and more relevant in recent times especially in a
 ![alt text](https://cdn-images-1.medium.com/max/800/1*KUQSMz2mVeOlUYvtSgvSRQ.gif)
 ![alt text](https://www.nextwanderlust.com/wp-content/uploads/2017/12/Incredible-India.jpg)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)[(https://colab.research.google.com/github/Kavyapriyakp/Environmental-Hydrology-for-Data-Science/blob/main/Classification_of_AQI_Levels.ipynb]
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/Kavyapriyakp/Environmental-Hydrology-for-Data-Science/blob/main/Classification_of_AQI_Levels.ipynb
 
 
 ## Problem Statement 

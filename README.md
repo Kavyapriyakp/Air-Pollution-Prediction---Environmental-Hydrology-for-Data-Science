@@ -25,9 +25,9 @@ Where to deploy resources in India to combat air pollution?
 In this project, we aim to find solutions to the below mentioned questions:
 <div align="justify"></div>
 
+- [ ] Visualize the air quality of index of major Indian cities
 - [ ] Predict the air quality index of major Indian cities
-- [ ] How to reduce air pollution?
-- [ ] Which factors contribute the most to air pollution?
+- [ ] Find which factors cause air pollution the post and how to reduce them
 
 ## Dataset
 <div align="justify">

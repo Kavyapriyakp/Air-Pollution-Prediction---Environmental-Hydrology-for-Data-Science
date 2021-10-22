@@ -14,8 +14,8 @@ Air pollution is becoming more and more relevant in recent times especially in a
 
 ## Problem Statement 
 <div align="justify">
-  Impact of COVID-19 on AQI in India
-FINDING OUT CAUSES OF POLLUTION
+Causes of air pollution in India
+and finding the most affected areas and
 Where to deploy resources in India to combat air pollution?
 </div>
 

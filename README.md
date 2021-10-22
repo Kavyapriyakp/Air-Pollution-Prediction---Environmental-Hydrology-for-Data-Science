@@ -16,7 +16,7 @@ Air pollution is becoming more and more relevant in recent times especially in a
 <div align="justify">
 Causes of air pollution in India
 , finding the most affected areas and
-where to deploy resources in India to combat air pollution?
+where to deploy resources in India to combat air pollution.
 </div>
 
 ## Objective

@@ -31,7 +31,7 @@ In this project, we aim to find solutions to the below mentioned questions:
 ## Dataset
 <div align="justify">
 
-The dataset being used is the "[Air Quality Data in India](www.kaggle.com/rohanrao/air-quality-data-in-india) (2015 - 2020)" from Kaggle or [here](https://drive.google.com/drive/folders/1T9ZNjpmcUz53RRUoCbHp9pSsVWMqx2VY?usp=sharing)</div>
+The dataset can be found from "[Air Quality Data in India](www.kaggle.com/rohanrao/air-quality-data-in-india) (2015 - 2020)" - Kaggle.  Few additional files are also necessary for successful compilation of the notebook.  Hence the complete dataset and assorted files can be downloaded from [here](https://drive.google.com/drive/folders/1T9ZNjpmcUz53RRUoCbHp9pSsVWMqx2VY?usp=sharing)</div>
 
 ## Predicted output
 <div align="justify">

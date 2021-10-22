@@ -33,10 +33,6 @@ In this project, we aim to find solutions to the below mentioned questions:
 
 The dataset being used is the "[Air Quality Data in India](www.kaggle.com/rohanrao/air-quality-data-in-india) (2015 - 2020)" from Kaggle or [here](https://drive.google.com/drive/folders/1T9ZNjpmcUz53RRUoCbHp9pSsVWMqx2VY?usp=sharing)</div>
 
-## Project Pipeline
-
-## Architecture or Model of Project
-
 ## Predicted output
 <div align="justify">
 

@@ -26,8 +26,7 @@ In this project, we aim to find solutions to the below mentioned questions:
 <div align="justify"></div>
 
 - [X] Classify & Visualize the air quality of index of major Indian cities
-- [ ] Predict the air quality index of major Indian cities
-- [ ] Find which factors cause air pollution the post and how to reduce them
+- [X] Predict the air quality index of one major Indian city
 
 ## Dataset
 <div align="justify">
